@@ -6,10 +6,10 @@ import sentiment_mod as s
 from unidecode import unidecode
 
 # consumer key, consumer secret, access token, access secret.
-ckey = "n9zcsi8C5jjo9u5tlSSRk9vVn"
-csecret = "RK6iQsR9ungazOXLUEIcIvNBBfUW6NMNzGRAKjMaQPxdZgFEeg"
-atoken = "1262553171349475328-02S35lIrZ5nCmoVdRX9HKZS3aqOXUs"
-asecret = "ASRzAX5vuuQhJEmCeIbDAa2sGSoFTFGFBJ7PEgUkztheb"
+ckey = ""
+csecret = ""
+atoken = ""
+asecret = ""
 
 
 # from twitterapistuff import *
